@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Paint_window\Paint_window\bin\Debug\Paint_window.exe.config
+C:\Users\user\source\repos\Paint_window\Paint_window\bin\Debug\Paint_window.exe
+C:\Users\user\source\repos\Paint_window\Paint_window\bin\Debug\Paint_window.pdb
+C:\Users\user\source\repos\Paint_window\Paint_window\obj\Debug\Paint_window.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Paint_window\Paint_window\obj\Debug\Paint_window.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Paint_window\Paint_window\obj\Debug\Paint_window.Form1.resources
+C:\Users\user\source\repos\Paint_window\Paint_window\obj\Debug\Paint_window.Properties.Resources.resources
+C:\Users\user\source\repos\Paint_window\Paint_window\obj\Debug\Paint_window.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Paint_window\Paint_window\obj\Debug\Paint_window.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Paint_window\Paint_window\obj\Debug\Paint_window.exe
+C:\Users\user\source\repos\Paint_window\Paint_window\obj\Debug\Paint_window.pdb
